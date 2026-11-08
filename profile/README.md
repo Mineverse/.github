@@ -15,7 +15,7 @@
         <img alt="Skyblock Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcsrvstat.us%2F3%2Fskyblock.net&label=version&query=%24.version&color=informational&style=flat-square" />
     </td>
     <td style="text-align: center;">
-        <a href="https://discord.gg/skyblock">
+        <a href="https://discord.gg/sb">
         <img alt="Skyblock Discord" src="https://img.shields.io/discord/290949089695367169?style=social&logo=discord&logoColor=%235865F2&label=&color=white&labelColor=transparent" />
         </a>
     </td>
